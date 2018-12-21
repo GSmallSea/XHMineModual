@@ -8,6 +8,6 @@ target 'MineModual_Example' do
   target 'MineModual_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
+    #pod 'FBSnapshotTestCase'
   end
 end

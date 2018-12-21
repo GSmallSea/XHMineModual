@@ -1,0 +1,16 @@
+PODS:
+  - MineModual (0.1.0)
+
+DEPENDENCIES:
+  - MineModual (from `../`)
+
+EXTERNAL SOURCES:
+  MineModual:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MineModual: 59c3910122bfa3694fb81d2689aba8fa1fb1f48e
+
+PODFILE CHECKSUM: 228302a0cdfbac879022d699a568db106204470e
+
+COCOAPODS: 1.6.0.beta.2
